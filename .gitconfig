@@ -1,4 +1,5 @@
 [alias]
 	i = !git init
 	s = !git status -s
+	c = !git add --all && git commit -m
 
