@@ -1,3 +1,4 @@
 [alias]
 	i = !git init
-	
+	s = !git status -s
+
