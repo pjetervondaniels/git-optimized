@@ -11,4 +11,4 @@
 ## Como Usar?
 - Use o comando no terminal ou no PowerShell: `git config core.editor code` para editar o arquivo de configuração do git com vscode editor,
 - Rodar o comando: `git config --global --edit`,
-- Copie os comandos do repositório para dentro do arquivo.
+- Copie os comandos do repositório e cole para dentro do arquivo.
