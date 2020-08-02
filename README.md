@@ -1,6 +1,5 @@
 
-## Comandos
-| Comando |           Ação      |
+| code |           action      |
 |--------------|--------------|
 | i |  git init | 
 | s |  git status -s| 
@@ -8,7 +7,8 @@
 | l |  git log | 
 |	cl |  git clone | 
   
-## Como Usar?
-- Use o comando no terminal ou no PowerShell: `git config core.editor code` para editar o arquivo de configuração do git com vscode editor,
-- Rodar o comando: `git config --global --edit`,
-- Copie os comandos do repositório e cole para dentro do arquivo.
+## How to use?
+
+- Use the command in the terminal or in PowerShell: `git config core.editor code` to edit the git configuration file with vscode editor,
+- Run the command: `git config --global --edit`,
+- Copy the commands from the repository and paste into the file.
